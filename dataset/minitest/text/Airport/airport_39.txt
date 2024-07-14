@@ -1,0 +1,1 @@
+The image features an airport with runways, taxiways, and parking areas. There are also buildings, grass, and trees. The overall classification for this scene is 'Airport and Airport-related Facilities'.

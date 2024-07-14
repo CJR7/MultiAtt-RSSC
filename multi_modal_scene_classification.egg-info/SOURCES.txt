@@ -1,0 +1,6 @@
+setup.py
+multi_modal_scene_classification.egg-info/PKG-INFO
+multi_modal_scene_classification.egg-info/SOURCES.txt
+multi_modal_scene_classification.egg-info/dependency_links.txt
+multi_modal_scene_classification.egg-info/requires.txt
+multi_modal_scene_classification.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: multi_modal_scene_classification
+Version: 0.1
+Summary: A multi-modal scene classification model integrating Vision Transformers and CLIP models
+Author: Jinjin Cai
+Author-email: cai379@purdue.edu
+Requires-Python: >=3.6
+Requires-Dist: torch>=1.7.0
+Requires-Dist: torchvision>=0.8.1
+Requires-Dist: transformers>=4.5.0
+Requires-Dist: Pillow>=8.1.0
+Requires-Dist: numpy>=1.19.2

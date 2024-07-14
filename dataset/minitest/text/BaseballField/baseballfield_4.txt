@@ -1,0 +1,1 @@
+The image shows a baseball field with a diamond shape in the center, a smaller diamond shape to the right, and a dirt area to the left. There are also some trees and a parking area. The primary land cover classification for this scene is 'Sports Field' or 'Baseball Field'.
